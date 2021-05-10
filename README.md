@@ -3,10 +3,15 @@
 1. Splash Screen
 2. A simple code to show google_map using google API Key.
 
-# some Screenshots
+# Some ScreenShots
 
+  Splash Screen -
 ![Splash Screeen](https://user-images.githubusercontent.com/81425855/117642659-2c8b9f00-b1a5-11eb-916d-7eb06b2ba6e7.png)
+  
+  Map Insights -
 ![Map Insights](https://user-images.githubusercontent.com/81425855/117642694-37deca80-b1a5-11eb-9a35-f5101bd5ded6.png)
+
+  Zoom Your Location
 ![Zoom Your Location](https://user-images.githubusercontent.com/81425855/117642711-3d3c1500-b1a5-11eb-8fed-ee9e3d4b313e.png)
 
 
